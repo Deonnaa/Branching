@@ -26,7 +26,7 @@ q -for quit
 * `git branch` - list local branches
 * `git branch branchName` - create local branch `branchName`
 * `git checkout branchName` - 
-*
+* 123
 *
 
 ## Remote Commans
@@ -36,3 +36,4 @@ q -for quit
 *
 
 stuff added on main
+otherBranchStuff
