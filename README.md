@@ -24,3 +24,9 @@ q -for quit
 * `git checkout branchName` - 
 *
 *
+
+## Remote Commans
+* `git remote add orgin URL` - set `origin` as alias for remote repo `URL`
+*
+*
+*
