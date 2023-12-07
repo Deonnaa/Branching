@@ -1,5 +1,9 @@
 # Git Branching Cheat Sheet
 
+## Overview
+
+Summary of common git commands, and practice with git branching.
+
 ## Basic Commands
 * `git init`
 * `git status`
